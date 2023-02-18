@@ -106,11 +106,16 @@ Please check the data type.<br/>
 
 ## Requirements
 ---
+<br/>
+
+<img width="80%" src="https://user-images.githubusercontent.com/22291462/219850988-033cce0f-7b72-44fe-a4b3-7aad49e9ab34.gif"/>
+<br/>
+<br/>
 
 시작하려면 매개 변수를 입력해야 합니다. <br/>
 You should pass parameter to start.<br/>
 モデルを作成するためにはデータベースの情報を入力する必要があります。<br/>
-データベースの種別によって入力パラメータが変わります。<br/>
+データベースの種別によって入力パラメータが変わります。<br/><br/>
 
 1. postgres<br/>
 
